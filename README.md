@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @fabischw
 - I like to do coding in my freetime with python
-
+- I'm currently learning PL/SQL, lua and aws
+- Projects I'm working on right now are unfortunetly private
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabischw)](https://github.com/anuraghazra/github-readme-stats)
 
