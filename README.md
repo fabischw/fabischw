@@ -2,7 +2,7 @@
 - I like to do coding in my freetime with python
 - I'm currently learning PL/SQL, lua and aws
 - I'm a certified professional at writing low quality spaghetti code 🤪
-- Projects I'm working on right now are unfortunately private (can't publish yet because of dependencies) 🙁
+- Currently working on the 'notenrechner' project, a system for managing and analyzing school exam results
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabischw)](https://github.com/anuraghazra/github-readme-stats)
 
