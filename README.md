@@ -2,7 +2,8 @@
 
 - I'm a highschool student from Germany who spends his freetime coding 👨‍💻
 - Currently working on the 'notenrechner' project, a system for managing and analyzing school exam results
-- looking to learn new things and socialize 
+- looking to learn new things and socialize 💬
+- 
 
 ## Skills / technologies:
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -28,16 +29,27 @@ Add projects later on
 --->
 
 
-## Stats:
-![fabischw's Github Stats](https://github-readme-stats.vercel.app/api?username=fabischw&show_icons=true&count_private=true&theme=tokyonight)
-
 ## contact me:
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](fabischw#6038)
-[![Stackoverflow](https://aleen42.github.io/badges/src/stackoverflow.svg)](fabischw)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/fabischw#6038)
+[![Stackoverflow](https://aleen42.github.io/badges/src/stackoverflow.svg)](https://meta.stackoverflow.com/users/20103140/fabischw)
 
 <!---
 Add LinkedIn
 --->
+
+
+## Stats:
+![fabischw's Github Stats](https://github-readme-stats.vercel.app/api?username=fabischw&show_icons=true&count_private=true&theme=tokyonight)
+![fabischw's top language](https://github-readme-stats.vercel.app/api/top-langs/?username=fabischw&show_icons=true&count_private=true&theme=tokyonight)
+![fabischw's streaks](https://github-readme-streak-stats.herokuapp.com/?user=fabischw&show_icons=true&count_private=true&theme=dark&hide_border=true)
+
+
+
+
+## profile stats:
+
+<a href="https://www.github.com/fabischw" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/fabischw?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 
 [<img src="https://komarev.com/ghpvc/?username=fabischw&label=Profile+Views&color=4287f5&style=flat" />](https://github.com/fabischw)
