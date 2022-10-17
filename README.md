@@ -3,7 +3,6 @@
 - I'm a highschool student from Germany who spends his freetime coding 👨‍💻
 - Currently working on the 'notenrechner' project, a system for managing and analyzing school exam results
 - looking to learn new things and socialize 💬
-- 
 
 ## Skills / technologies:
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
