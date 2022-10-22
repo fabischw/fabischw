@@ -11,8 +11,10 @@
 ![lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)
+![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 
-## skills I'm working on:
+## learning:
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -24,14 +26,28 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 
+
+
+## other 'skills':
+![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+
+
+
 <!---
 Add projects later on
 --->
 
 
-## contact me:
+## socials:
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/fabischw#6038)
-[![Stackoverflow](https://aleen42.github.io/badges/src/stackoverflow.svg)](https://meta.stackoverflow.com/users/20103140/fabischw)
+[![Stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://meta.stackoverflow.com/users/20103140/fabischw)
+[![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/fabischw/)
 
 <!---
 Add LinkedIn
@@ -41,7 +57,13 @@ Add LinkedIn
 ## Stats:
 ![fabischw's Github Stats](https://github-readme-stats.vercel.app/api?username=fabischw&show_icons=true&count_private=true&theme=tokyonight)
 ![fabischw's top language](https://github-readme-stats.vercel.app/api/top-langs/?username=fabischw&show_icons=true&count_private=true&theme=tokyonight)
-![fabischw's streaks](https://github-readme-streak-stats.herokuapp.com/?user=fabischw&show_icons=true&count_private=true&theme=dark&hide_border=true)
+![fabischw's streaks](https://github-readme-streak-stats.herokuapp.com/?user=fabischw&show_icons=true&count_private=true&theme=dark)
+
+## activity graph:
+![fabischw's activity graph](https://activity-graph.herokuapp.com/graph?username=fabischw&theme=tokyonight)
+
+## summary:
+![fabishw summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fabischw&theme=tokyonight)
 
 
 
