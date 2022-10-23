@@ -49,6 +49,8 @@ Add projects later on
 [![Stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://meta.stackoverflow.com/users/20103140/fabischw)
 [![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/fabischw/)
 
+[codingame](https://www.codingame.com/profile/9023b459657e64a500b78b2f38591e391437415)
+
 <!---
 Add LinkedIn
 --->
