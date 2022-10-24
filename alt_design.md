@@ -1,10 +1,16 @@
+<!---
+this markdown is for designing new README'S
+--->
+
+
+
+
 ## Hey, I'm Fabian 👋
 
 - I'm a highschool student from Germany who spends his freetime coding 👨‍💻
 - Currently working on the 'notenrechner' project, a system for managing and analyzing school exam results
 - looking to learn new things and socialize 💬
 - ⚡ fun fact: the PL/SQL in my repos doesn't get recognized by github 🤓
-- ⚡ fun fact 2: I love badges.
 
 
 
@@ -30,16 +36,11 @@
 ![PL/SQL](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)
 ![android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white)
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
 
 
 ### basics:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![kali linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![Delphi](https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white)
 
 
 ### learning:
