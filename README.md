@@ -20,11 +20,11 @@
 
 ![Streamlit framework](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)
 
 
 ### basics:
 
+![PL/SQL](https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![kali linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
@@ -33,7 +33,6 @@
 
 
 ### currently learning:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -41,9 +40,99 @@
 </details>
 
 
-<!---
-Add projects later on
---->
+
+<details>
+<summary>projects</summary>
+
+# Projects
+
+## ❗ Disclaimer ❗
+Most of my current projects are either a proof of concept or a way for me to learn new things.
+Most of them are also unfinished because I either didn't yet have the time to complete them or decided I want to focus on learning something else before coming back to the project.
+
+
+<details>
+<summary>Notenrechner</summary>
+
+# [Notenrechner](https://github.com/fabischw/notenrechner) (= [Notenrechner light](https://github.com/fabischw/notenrechner-light))
+🚧 still in development 🚧
+### Description
+This project provides an easy, flexible way of organizing exam results from german highschools.
+The project allows for a lot of customaziation because of the structure used.
+
+
+### technologies used
+- python
+- Pl/SQL (Oracle database 21c XE)
+- streamlit framework
+- git + github
+- pandas 
+
+### What I learned / key takeaways
+- databases:
+    - how to structure data in relational databases
+    - how to implement a database in PL/SQL
+
+- python:
+    - streamlit framework
+    - splitting a python project in multiple files, ore regular use of OOP
+
+
+- other lessons learned / skills aqcuired:
+    - documentation a project (planning phase included)
+    - splitting a project in backend / frontend
+    - using git and github + streamlit cloud
+    - planning of projects
+    - don't start a big project if you have to study for your finals 🤦‍♂️
+    - perseverance is important when working on a bigger project
+
+
+### future plans
+- finish the app.
+
+</details>
+
+
+<details>
+<summary>Orbitrechner</summary>
+
+# Orbitrechner
+❗ I can't share a functional version of this project because I used copyrighted images. Source file can be found in [this reposirotry](https://github.com/fabischw/orbitrechner-proof-of-concept) ❗
+If you want to see this project in action, please contact me.
+### Description
+This project was my first real project. It was expanded gradually after starting out with a tkinter graphical user interface that provided access to tons of space-related functions.
+More details can be found in the corresponding repository.
+
+### technologies used
+- python:
+    - Tkinter
+    - Requests library
+    - Dropbox module
+    - hashing
+    - (webhooks)
+    - Pygame
+
+- very basic web versions:
+    - Anvil web app
+
+### What I learned / key takeaways
+- Python:
+    - basics (data structures, functions, OOP)
+    - Tkinter (creating GUIs with multiple windows)
+    - APIs (requesting data from multiple spaceflight related APIs)
+    - using Dropbox module to pull from/ push to a folder
+    - editing files with python 
+    - Pygame (using pygame to visualize the outcome of a calculation(planetary orbits))
+
+
+
+
+</details>
+
+
+
+</details>
+
 
 
 <details>
