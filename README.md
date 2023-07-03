@@ -25,7 +25,6 @@
 ### basics:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 ![kali linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
@@ -54,7 +53,7 @@ Most of them are also unfinished because I either didn't yet have the time to co
 <summary>Notenrechner</summary>
 
 # [Notenrechner](https://github.com/fabischw/notenrechner) (= [Notenrechner light](https://github.com/fabischw/notenrechner-light))
-🚧 still in development 🚧
+🚧 still in development 🚧 - mostly a learning project, not an actual project for individual use
 ### Description
 This project provides an easy, flexible way of organizing exam results from german highschools.
 The project allows for a lot of customaziation because of the structure used.
