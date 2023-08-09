@@ -1,9 +1,8 @@
 ## Hey, I'm Fabian 👋
 
 - I'm a highschool student from Germany who spends his freetime coding 
-- Currently working on the 'notenrechner' project, a system for managing and analyzing school exam results
+- Currently learning about GNU / Linux
 - looking to learn new things and socialize
-- I'm learning about the basics of data science and machine learning
 
 
 <details>
