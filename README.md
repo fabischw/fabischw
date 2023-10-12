@@ -1,7 +1,7 @@
 ## Hey, I'm Fabian 👋
 
-- I'm a highschool student from Germany who spends his freetime coding 
-- Currently learning about GNU / Linux
+- I'm a computer science student from Germany
+- particularly interested in linux, free software and python
 - looking to learn new things and socialize
 
 
@@ -13,13 +13,12 @@
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Fedora Linux](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### intermediate:
 
 ![Streamlit framework](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
 ### basics:
 
@@ -30,8 +29,10 @@
 
 ![Shell script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 </details>
+
 
 
 
@@ -42,14 +43,14 @@
 
 ## ❗ Disclaimer ❗
 Most of my current projects are either a proof of concept or a way for me to learn new things.
-Most of them are also unfinished because I either didn't yet have the time to complete them or decided I want to focus on learning something else before coming back to the project.
+Most of them are also unfinished because I either didn't yet have the time to complete them or already achieved the main objective which was learning about a specific technology
 
 
 <details>
 <summary>Notenrechner</summary>
 
 # [Notenrechner](https://github.com/fabischw/notenrechner) (= [Notenrechner light](https://github.com/fabischw/notenrechner-light))
-🚧 still in development 🚧 - mostly a learning project, not an actual project for individual use
+❗ Not a finished project - mostly a learning project, not an actual project for individual use
 ### Description
 This project provides an easy, flexible way of organizing exam results from german highschools.
 The project allows for a lot of customaziation because of the structure used.
@@ -139,9 +140,7 @@ More details can be found in the corresponding repository.
 
 [codingame](https://www.codingame.com/profile/9023b459657e64a500b78b2f38591e391437415)
 
-<!---
-Add LinkedIn
---->
+
 </details>
 
 <details>
